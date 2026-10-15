@@ -1,0 +1,36 @@
+{
+  "marker": "OMM_PR249_LARGE_TRANSFER_20261015",
+  "total_bytes": 283115520,
+  "files": [
+    {
+      "path": "integration-fixtures/large-270m/part-01.bin",
+      "bytes": 47185920,
+      "sha256": "e92b9b1a79c0e3e934576a0f3ec5780018307e1844f1b18b75d2d70441d1e9ca"
+    },
+    {
+      "path": "integration-fixtures/large-270m/part-02.bin",
+      "bytes": 47185920,
+      "sha256": "7b92100e50eb0d0fbe09dfdb16f95a4e57428414ecb1adeee05ca96d87b5ab48"
+    },
+    {
+      "path": "integration-fixtures/large-270m/part-03.bin",
+      "bytes": 47185920,
+      "sha256": "e9d6091216d359239d9551c27a050a2e4de1adf5fba378a180dd1caf54a72a07"
+    },
+    {
+      "path": "integration-fixtures/large-270m/part-04.bin",
+      "bytes": 47185920,
+      "sha256": "fa1c8fe943566839064f546b42e3ebb986fb073b9be7acfda65aff02b59c1c18"
+    },
+    {
+      "path": "integration-fixtures/large-270m/part-05.bin",
+      "bytes": 47185920,
+      "sha256": "80ab95559966de2b7c851a633adfbe57eb56342f5b00ea3574afb221e45daedf"
+    },
+    {
+      "path": "integration-fixtures/large-270m/part-06.bin",
+      "bytes": 47185920,
+      "sha256": "9b535d9a3e0e656bae9b443f1c6fb16226f97c59dfd6981c480f238b355a390a"
+    }
+  ]
+}
