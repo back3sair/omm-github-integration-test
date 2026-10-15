@@ -1,0 +1,37 @@
+{
+  "test": "pr249-upload-270m-1015",
+  "part_bytes": 47185920,
+  "total_bytes": 283115520,
+  "files": [
+    {
+      "path": "integration-fixtures/upload-270m/part-01.bin",
+      "bytes": 47185920,
+      "sha256": "ddf107aa3a4f674b7fd720bc9ac873be7ca30d734b959a34689199862834bc03"
+    },
+    {
+      "path": "integration-fixtures/upload-270m/part-02.bin",
+      "bytes": 47185920,
+      "sha256": "714c96b993ae00419de1dc093241bcf264a0029eb8623b4bbc8f0b25a09b75aa"
+    },
+    {
+      "path": "integration-fixtures/upload-270m/part-03.bin",
+      "bytes": 47185920,
+      "sha256": "44b56e75324a105fbc87061545fd019245778cfa264faa1932f8dca9d0f1cc8f"
+    },
+    {
+      "path": "integration-fixtures/upload-270m/part-04.bin",
+      "bytes": 47185920,
+      "sha256": "f6da6458f824beaeb98b950a830bf96493ed73709c74e37983723e3aa5937220"
+    },
+    {
+      "path": "integration-fixtures/upload-270m/part-05.bin",
+      "bytes": 47185920,
+      "sha256": "3bf60aaa267b231cac918d2e194a68aa56591726a7ce1fe75b3cb8b0dac7e768"
+    },
+    {
+      "path": "integration-fixtures/upload-270m/part-06.bin",
+      "bytes": 47185920,
+      "sha256": "b8d81c0e5621034c495c888b79475343eab7f7d91122a8e73b8794fc1dd953ff"
+    }
+  ]
+}
